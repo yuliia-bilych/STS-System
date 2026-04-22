@@ -10,4 +10,4 @@ def classify_ticket(text):
     if "network" in text.lower(): return "network"
     return "general"
 
-print("Version: 2.0 (Conflict-Branch)")
+print("Base Version")
