@@ -10,4 +10,4 @@ def classify_ticket(text):
     if "network" in text.lower(): return "network"
     return "general"
 
-print("Base line")
+print("Base for PR Conflict")
