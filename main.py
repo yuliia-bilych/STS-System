@@ -9,3 +9,5 @@ categories = {"network": "Network Support", "access": "Security Team"}
 def classify_ticket(text):
     if "network" in text.lower(): return "network"
     return "general"
+
+print("Version: 1.0 (Main)")
