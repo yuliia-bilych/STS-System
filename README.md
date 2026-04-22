@@ -1,0 +1,1 @@
+# Smart Ticket Service (STS) - Intelligent ticketing system
